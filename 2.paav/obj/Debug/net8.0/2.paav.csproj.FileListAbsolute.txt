@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\bin\Debug\net8.0\2.paav.exe
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\bin\Debug\net8.0\2.paav.deps.json
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\bin\Debug\net8.0\2.paav.runtimeconfig.json
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\bin\Debug\net8.0\2.paav.dll
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\bin\Debug\net8.0\2.paav.pdb
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.sourcelink.json
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.dll
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\refint\2.paav.dll
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.pdb
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\2.paav.genruntimeconfig.cache
+C:\Users\Mark\source\repos\Sharp[\Sharp-\2.paav\obj\Debug\net8.0\ref\2.paav.dll
